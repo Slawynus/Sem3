@@ -6,7 +6,7 @@ String a3 = a2.ToString();
 String a4 = a3.ToString();
 String a5 = a4.ToString();
 
-if (a1 == a5)
+if (a1 == a5 && a2 == a4)
 {
     Console.WriteLine("палиндром");
 }
